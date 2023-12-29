@@ -10,3 +10,14 @@
 | 6251071072 | Đỗ Đức Phong    | Developer |
 | 6251071041 | Võ Tuấn Hưng    | Developer |
 | 6251071040 | Nguyễn Ngọc Huy | Developer |
+
+• ASP.NET 6.0
+• Visual Studio 2022
+• Entity Framework Core 6.0
+• SQL Server
+• Bootstrap 5
+• Bootswatch theme - Superhero - https://bootswatch.com/superhero/
+• Selectize JS - https://selectize.dev/
+• Toastr - https://codeseven.github.io/toastr/
+
+https://github.com/NikolayIT
